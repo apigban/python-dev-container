@@ -42,7 +42,3 @@ PROJECT_PATH=/home/apigban/Desktop/Personal/PCSO_results_scraper/
 
 * [podman](https://podman.io/) - The container engine used
 * [buildah](https://github.com/containers/buildah) - OCI compliant Image builder
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
